@@ -1,2 +1,3 @@
 # HydraDragonAV
-World's First Professional Open Source Endpoint Antivirus Project Made in Rust
+- World's First Professional Open Source Endpoint Antivirus Project Made in Rust
+- Signatures: https://mega.nz/file/HwY0mDQb#O4R793zbfxuTlNZNwVp6BKHasoYL2-_jw8KeAwEp6LI
